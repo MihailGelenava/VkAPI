@@ -1,0 +1,15 @@
+﻿{
+  "base_url": "https://api.vk.com/method",
+  "access_token": "vk1.a.HaosHa-CsCUBymMB-NaELxD52RjgPGEWoCUGEOGMzhyWHNDknGiy8dzlSzWimxvI7V7Bwo4s8KzUMMNOoDRNQsNF1eaSPUWm7Vtkm0LYr-DMtpXjPpcUxIxUPME-MJfaXumIX-x0kA02wPpQxF-OJ0m2ZIQN8KDt_f6hiM3OCvHoP-hL_Fhncb0EJXGBWMSOYaXJyLctZUzXuAVCTEs--A",
+  "api_version": "5.131",
+  "upload_image_absolute_path": "C:\\Users\\archa\\source\\repos\\VkAPI\\VkAPI\\Resources\\Images\\post7.jpg",
+  "endpoints": {
+    "create_wall_post": "/wall.post",
+    "edit_wall_post": "/wall.edit",
+    "create_post_comment": "/wall.createComment",
+    "get_post_likes": "/wall.getLikes",
+    "delete_wall_post": "/wall.delete",
+    "save_wall_photo": "/photos.saveWallPhoto",
+    "get_photo_upload_server": "/photos.getWallUploadServer"
+  }
+}
